@@ -7,7 +7,7 @@ I am a third year computer science specializing in Intelligent System.
 <li> Data Analyst
 <li> Software Engineer
 
-<b> - 🌱 I’m currently learning ... </b>
+<b> 🌱 I’m currently learning ... </b>
 <li> CSS
 <li> JavaScript
 <li> Python
