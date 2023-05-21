@@ -2,7 +2,7 @@
 
 I am a third year computer science specializing in Intelligent System.
 
-- 👀 I’m interested in ...
+<b> 👀 I’m interested in ... </b>
 Web Development
 Data Analyst
 Software Engineer
@@ -12,10 +12,10 @@ Software Engineer
 <li> JavaScript
 <li> Python
 
-- 📫 How to reach me ...
+<b> 📫 How to reach me ... </b>
 
-Email: fritzacebes43@gmail.com
-LinkedIn: [Fritz Acebes](https://www.linkedin.com/in/fritz-william-acebes-70603125a)
+<li> Email: fritzacebes43@gmail.com
+<li> LinkedIn: [Fritz Acebes](https://www.linkedin.com/in/fritz-william-acebes-70603125a)
 
 <!---
 Fritz-12/Fritz-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
