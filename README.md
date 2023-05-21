@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @Fritz-12
 
-I am Fritz Acebe
+I am a third year computer science specializing in Intelligent System.
 
 - 👀 I’m interested in ...
-
+Web Development
+Data Analyst
+Software Engineer
 
 - 🌱 I’m currently learning ...
-
-
-- 💞️ I’m looking to collaborate on ...
-
+<li> CSS
+<li> JavaScript
+<li> Python
 
 - 📫 How to reach me ...
 
