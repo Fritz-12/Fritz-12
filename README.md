@@ -12,7 +12,6 @@ I am Fritz Acebe
 
 
 - 📫 How to reach me ...
-Feel free to connect with me on any of the following platforms:
 
 Email: fritzacebes43@gmail.com
 LinkedIn: [Fritz Acebes](https://www.linkedin.com/in/fritz-william-acebes-70603125a)
