@@ -3,11 +3,11 @@
 I am a third year computer science specializing in Intelligent System.
 
 <b> 👀 I’m interested in ... </b>
-Web Development
-Data Analyst
-Software Engineer
+<li> Web Development
+<li> Data Analyst
+<li> Software Engineer
 
-- 🌱 I’m currently learning ...
+<b> - 🌱 I’m currently learning ... </b>
 <li> CSS
 <li> JavaScript
 <li> Python
